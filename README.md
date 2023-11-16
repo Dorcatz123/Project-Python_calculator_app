@@ -1,7 +1,23 @@
 Title:************* Python amazing calculator ****************************
 
 
-link to the program output: 
+link to the program output: https://youtu.be/zG-T8HDK5mg
+
+
+
+
+
+![calculator](https://github.com/Dorcatz123/Python_calculator_app/assets/120886051/2cf718d2-ce95-4647-9def-90a78be241cc)
+
+
+
+
+
+
+
+
+
+
 
 **Description:
 
