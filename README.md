@@ -1,4 +1,4 @@
-Title:*************Python amazing calculator****************************
+Title:*************PYthon amazing calculator****************************
 
 
 link to the program output: 
