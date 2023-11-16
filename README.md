@@ -38,6 +38,6 @@ There is no challenge involved! this is just for fun unlike my other projects!
 
 
 
-**Python game: 
+**Python program: 
 
 This program is entirely built on python. It showcases a classical math solver capabilitities of modules such as sympy in the python programming language. This project is a perfect example of showcasing basic python coding skills to build an amazing tool such as a calculator for fun or for educational purpose!
