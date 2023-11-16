@@ -1,4 +1,4 @@
-from Brijesh_day16_calc import *
+from calculator import *
 import traceback
 line_break = '-'*120
 user_input = input("Start the simple Calculator: Press 1 \n  Start the polynomial Calculator: Press 2:?").lower()
