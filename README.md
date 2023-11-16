@@ -1,11 +1,11 @@
-Title:*************PYthon amazing calculator****************************
+Title:************* Python amazing calculator ****************************
 
 
 link to the program output: 
 
 **Description:
 
-This is a mini project using python programming language to build a standard calculator which can keep track of the previous outputs and calculations! This calculator also has an inbuilt quadratic polynomial solver using the sympy module. The program is written in such a way that even if you make an error inputting something the program won't crash. It is highly user freindly and easy to navigate.
+This is a mini project using python programming language to build a standard calculator which can keep track of the previous outputs and calculations! This calculator also has an inbuilt quadratic polynomial solver using the sympy module. The program is written in such a way that even if you make an error inputting something the program won't crash. It is highly user freindly and easier to navigate.
 
 **Objective:
 
@@ -24,4 +24,4 @@ There is no challenge involved! this is just for fun unlike my other projects!
 
 **Python game: 
 
-This program is entirely built on python. It showcases a classical . This project is a perfect example of showcasing basic python coding skills to built an amazing tool such as a calculator for fun or for educational purpose!
+This program is entirely built on python. It showcases a classical math solver capabilitities of modules such as sympy in the python programming language. This project is a perfect example of showcasing basic python coding skills to build an amazing tool such as a calculator for fun or for educational purpose!
